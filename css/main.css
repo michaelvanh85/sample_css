@@ -1,0 +1,24 @@
+a {
+  color: blue;
+}
+li a {
+  border: 1px dotted red;
+}
+div {
+  border: 1px solid black;
+}
+.bio-box a {
+  color: green;
+}
+#exec-bio {
+  background-color: lightgray;
+}
+#orange-id {
+  background-color: orange;
+}
+.bio-box {
+  border: 1px solid black;
+}
+.azure-class {
+  background-color: azure;
+}
