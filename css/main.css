@@ -22,3 +22,10 @@ div {
 .azure-class {
   background-color: azure;
 }
+.alert {
+  background: purple;
+}
+a.social-link {
+  background: rgba(150, 150, 150, 0.5);
+  color: blue;
+}
